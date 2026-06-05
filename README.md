@@ -13,8 +13,17 @@ Once you open shortcutted with this link: https://vytaxx.github.io/ShortCutted/ 
 
 If you're looking to use a shortcut group, press the shortcuts button and you'll see all the public shortcut groups, just press on one to use it.
 
+# Contact
+If you need to contact me for any reason please use the following platforms to reach me:
+- Gmail: pcutilsdev@gmail.com
+- LinkTree: https://linktr.ee/vytaxx/
+- Discord: https://discord.gg/vc9nVuxjUM
+
+# PC Utils
+ShortCutted is a software from PC Utils which is owned and developed by Vytaxity.
+
 # License
 
-This project is licensed under the PolyForm Noncommercial License 1.0.0.
+This project is licensed under the PolyForm Noncommercial License 1.0.0. Read the full license [here.](https://github.com/Vytaxx/ShortCutted/blob/main/LICENSE.md)
 
 Commercial use is prohibited.
