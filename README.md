@@ -19,6 +19,9 @@ If you need to contact me for any reason please use the following platforms to r
 - LinkTree: https://linktr.ee/vytaxx/
 - Discord: https://discord.gg/vc9nVuxjUM
 
+# How Submissions Work
+When you submit a shortcut group to ShortCutted through the submissions form, I will take the URL's you submitted and and create a new HTML page for the shortcut group. Instead of putting all the shortcut pages in the main repository, I put the pages in a seperate repository dedicated to just the shortcut groups. The reason behind this is because, if I add all the pages for the shortcut groups in the main repository, it would get very comfusing and messy with all the HTML pages.
+
 # PC Utils
 ShortCutted is a software from PC Utils which is owned and developed by Vytaxity.
 
