@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    font: 1000 200px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.arrowdown {
+    color: rgb(255, 255, 255);
+    font: 800 100px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font: 600 40px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.shortcutsbutton {
+    color: rgb(44, 44, 44);
+    font: 800 100px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.aboutbutton {
+    color: rgb(44, 44, 44);
+    font: 800 100px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 30vh;
+    margin-left: 25vh;
+}
+
+.pcubutton {
+    color: rgb(44, 44, 44);
+    font: 800 100px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20vh;
+    margin-left: 40vh;
+}
+
+.submitbutton {
+    color: rgb(44, 44, 44);
+    font: 800 100px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 5vh;
+    margin-left: 50vh;
+}

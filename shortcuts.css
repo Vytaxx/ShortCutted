@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.homebutton {
+    color: rgb(44, 44, 44);
+    font: 800 50px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    color: rgb(255, 255, 255);
+    font: 800 150px "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 0vh;
+}
