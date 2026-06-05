@@ -25,7 +25,8 @@ When you submit a shortcut group to ShortCutted through the submissions form, I 
 You can view the repository [here.](https://github.com/Vytaxx/ShortCutted-Submissions)
 
 # PC Utils
-ShortCutted is a software from PC Utils which is owned and developed by Vytaxity.
+ShortCutted is a software from PC Utils which is owned and developed by Vytaxity. 
+Check out other software on the [PC Utils Website.](https://sites.google.com/view/pcutilsdev/)
 
 # License
 
