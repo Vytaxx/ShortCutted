@@ -4,7 +4,7 @@
 //
 // <head><title>Loading...</title></head>
 // <script>
-window.location.replace("https://github.com/")
+window.location.replace("https://vytaxx.github.io/ShortCutted/")
 // </script>
 //
 // </html>
